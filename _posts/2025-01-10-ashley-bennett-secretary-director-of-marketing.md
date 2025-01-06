@@ -1,6 +1,6 @@
 ---
 title: "Board Update: Ashley Bennett Elected as Secretary and Director of Marketing"
-date: 2025-01-10 09:00:00 -0500
+date: 2025-01-10T10:00:00-06:00
 categories:
   - board
 tags:
