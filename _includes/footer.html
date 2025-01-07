@@ -1,6 +1,6 @@
 <footer id="footer" class="page-footer {{ page.footer.classes | default: site.footer.classes }}">
   {% unless page.footer.force_no_include %}
-    {%- if page.footer.links or site.footer.links %}
+    {%- if page.footer.links %}
       {%- include footer/links.html %}
     {%- endif %}
 
