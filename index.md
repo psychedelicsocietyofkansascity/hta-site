@@ -1,7 +1,6 @@
 ---
 layout: splash
-title: "Welcome to 
-The Heartland Transpersonal Alliance"
+title: "Welcome to The Heartland Transpersonal Alliance"
 permalink: /
 header:
   overlay_color: "#000"
