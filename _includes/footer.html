@@ -1,0 +1,25 @@
+{%- comment -%}
+  Custom footer for HTA.
+  This removes default Jekyll/Minimal Mistakes branding and replaces it with 
+  PSKC + Heartland Transpersonal Alliance info.
+{%- endcomment -%}
+
+<footer id="footer" class="page-footer {{ page.footer.classes | default: site.footer.classes }}">
+  {% unless page.footer.force_no_include %}
+    {%- if page.footer.links %}
+      {%- include footer/links.html %}
+    {%- endif %}
+
+    {%- include footer/custom.html %}
+  {% endunless %}
+
+  <!-- Replace default footer text with your own content -->
+  <p style="text-align: center; margin-top: 1rem;">
+  &copy; {{ site.time | date: '%Y' }} The Heartland Transpersonal Alliance, Inc.<br>
+  </a> is a registered 501(c)(3) in the state of Missouri.
+</p>
+</footer>
+
+{% if site.disqus_shortname and page.comments %}
+  {%- include scripts/disqus.html -%}
+{% endif %}
