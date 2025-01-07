@@ -2,6 +2,7 @@
 layout: splash
 title: "Meet the Board"
 permalink: /board/
+publish: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
