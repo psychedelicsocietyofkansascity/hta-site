@@ -22,7 +22,7 @@ Welcome to our site! We’re dedicated to...
   <ul>
     {% for post in recent_posts limit:3 %}
       <li>
-        <a href="{{ post.url }}">{{ post.title }}</a> <br>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a> <br>
         <small>{{ post.date | date_to_string }}</small>
       </li>
     {% endfor %}
