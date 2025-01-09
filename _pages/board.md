@@ -14,7 +14,9 @@ header:
 toc: false
 ---
 
-<!-- No H1 here because the splash layout already includes the title -->
+<div class="header-text">
+  <p>Interested in joining the board? We are looking for motivated individuals in the KC area.</p>
+</div>
 
 <div class="row row--equal" style="margin-top: 2rem;">
   <div class="col-4">
