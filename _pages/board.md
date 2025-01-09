@@ -11,7 +11,6 @@ header:
     - label: "Apply Now"
       url: "/about/"
       class: "btn btn--primary"
-  custom_text: "Interested in joining the board? We are looking for motivated individuals from the KC area."
 toc: false
 ---
 
