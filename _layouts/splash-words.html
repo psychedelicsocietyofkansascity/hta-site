@@ -18,10 +18,8 @@ layout: default
       {% if page.header.show_overlay_excerpt != false and page.excerpt %}
         <p class="page__excerpt" itemprop="description">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
-      <!-- Insert Custom Text -->
-      {% if page.header.custom_text %}
-        <p class="header-text">{{ page.header.custom_text }}</p>
-      {% endif %}
+      <!-- Hardcoded Custom Text -->
+      <p class="header-text">Interested in joining the board? We are looking for motivated individuals in the KC area.</p>
       <!-- End Custom Text -->
       {% if page.header.actions %}
         <p>
