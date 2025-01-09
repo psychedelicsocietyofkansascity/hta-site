@@ -37,5 +37,7 @@ toc: false
   </div>
   <div style="text-align: center; margin-top: 2rem;">
   <p>We are looking for motivated individuals in the KC area to join our board. If you're interested, please apply now!</p>
-  <a href="/about/" class="btn btn--secondary" style="color: black;">Apply Now</a>
+  <a href="/about/" class="btn" style="background-color: rgba(50, 50, 50, 0.8); color: white; border: none; padding: 10px 20px; border-radius: 5px;">
+    Apply Now
+  </a>
 </div>
