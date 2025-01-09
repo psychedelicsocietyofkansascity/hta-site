@@ -18,7 +18,7 @@ toc: false
 
 <div class="row row--equal">
   <div class="col-4">
-    {% include figure.html
+    {% include figure
       image="/assets/images/bio-photo.jpg"
       alt="Dale Morgan"
       caption="<strong>Dale Morgan</strong><br>President"
@@ -28,7 +28,7 @@ toc: false
   </div>
 
   <div class="col-4">
-    {% include figure.html
+    {% include figure
       image="/assets/images/bio-photo.jpg"
       alt="Dr. Christine Ziemer"
       caption="<strong>Dr. Christine Ziemer</strong><br>Executive Director"
@@ -38,7 +38,7 @@ toc: false
   </div>
 
   <div class="col-4">
-    {% include figure.html
+    {% include figure
       image="/assets/images/bio-photo.jpg"
       alt="Ashley Bennett"
       caption="<strong>Ashley Bennett</strong><br>Secretary & Director of Marketing"
