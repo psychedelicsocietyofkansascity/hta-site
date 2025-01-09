@@ -8,9 +8,9 @@ published: true
 #  overlay_filter: "0.5"
 #  overlay_image: /assets/images/hero-image.jpg
 #  actions:
-    - label: "Join Us"
-      url: "/donate/"
-      class: "btn btn--primary"
+#    - label: "Join Us"
+#      url: "/donate/"
+#      class: "btn btn--primary"
 toc: false
 ---
 
