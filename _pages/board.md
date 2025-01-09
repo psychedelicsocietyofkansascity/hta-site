@@ -4,13 +4,13 @@ title: "Meet the Board"
 permalink: /board/
 published: true
 header:
-overlay_color: "#000"
-overlay_filter: "0.5"
-overlay_image: /assets/images/hero-image.jpg
-  actions:
-    - label: "Join Us"
-      url: "/donate/"
-      class: "btn btn--primary"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/hero-image.jpg
+    actions:
+      - label: "Join Us"
+        url: "/donate/"
+        class: "btn btn--primary"
 toc: false
 ---
 
