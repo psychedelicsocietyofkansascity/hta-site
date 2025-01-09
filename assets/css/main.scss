@@ -8,6 +8,11 @@ search: false
   font-size: 1.2em;
   margin-bottom: 1.5rem;
 }
+.page__hero-overlay {
+  height: 100vh; /* Adjust as needed */
+  background-size: cover;
+  background-position: center;
+}
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
