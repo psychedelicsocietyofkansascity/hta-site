@@ -24,7 +24,7 @@ toc: false
       image="/assets/images/dale-bio.jpeg"
       alt="Dale Morgan"
       caption="<strong>Dale Morgan</strong><br>President<br>Dale leads our organization with vision and dedication."
-      align="center"
+      align="left"
     %}
   </div>
 
@@ -42,7 +42,7 @@ toc: false
       image="/assets/images/bio-photo.jpg"
       alt="Ashley Bennett"
       caption="<strong>Ashley Bennett</strong><br>Secretary & Director of Marketing<br>Ashley drives our marketing efforts and manages communications."
-      align="center"
+      align="right"
     %}
   </div>
 </div>
