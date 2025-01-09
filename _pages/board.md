@@ -14,34 +14,17 @@ header:
 toc: false
 ---
 
-<div class="row row--equal" style="display: flex; margin-top: 2rem;">
-  <div class="col-12 col-md-4">
-    {% include figure.html
-      image="/assets/images/dale-bio.jpeg"
-      alt="Dale Morgan"
-      caption="<strong>Dale Morgan</strong><br>President<br>Dale leads our organization with vision and dedication."
-      align="center"
-#      figure_class="avatar"
-    %}
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; text-align: center; margin: 10px;">
+    <img src="{{ '/assets/images/dale-bio.jpeg' | relative_url }}" alt="Dale Morgan" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
+    <p><strong>Dale Morgan</strong><br>President<br>Dale leads our organization with vision and dedication.</p>
   </div>
-
-  <div class="col-12 col-md-4">
-    {% include figure.html
-      image="/assets/images/christine-bio.jpg"
-      alt="Dr. Christine Ziemer"
-      caption="<strong>Dr. Christine Ziemer</strong><br>Executive Director<br>Christine oversees strategic initiatives and board operations."
-      align="center"
- #     figure_class="avatar"
-    %}
+  <div style="flex: 1; text-align: center; margin: 10px;">
+    <img src="{{ '/assets/images/christine-bio.jpg' | relative_url }}" alt="Dr. Christine Ziemer" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
+    <p><strong>Dr. Christine Ziemer</strong><br>Executive Director<br>Christine oversees strategic initiatives and board operations.</p>
   </div>
-
-  <div class="col-12 col-md-4">
-    {% include figure.html
-      image="/assets/images/ashley-bio.jpg"
-      alt="Ashley Bennett"
-      caption="<strong>Ashley Bennett</strong><br>Secretary & Director of Marketing<br>Ashley drives our marketing efforts and manages communications."
-      align="center"
-  #    figure_class="avatar"
-    %}
+  <div style="flex: 1; text-align: center; margin: 10px;">
+    <img src="{{ '/assets/images/ashley-bio.jpg' | relative_url }}" alt="Ashley Bennett" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
+    <p><strong>Ashley Bennett</strong><br>Secretary & Director of Marketing<br>Ashley drives our marketing efforts and manages communications.</p>
   </div>
 </div>
