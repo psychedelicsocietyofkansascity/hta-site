@@ -11,7 +11,7 @@ toc: false
 <div class="row row--equal" style="margin-top: 2rem;">
   <div class="col-4">
     {% include figure
-      image="/assets/images/bio-photo.jpg"
+      image="/assets/images/dale-bio.jpeg"
       alt="Dale Morgan"
       caption="<strong>Dale Morgan</strong><br>President<br>Dale leads our organization with vision and dedication."
       align="center"
