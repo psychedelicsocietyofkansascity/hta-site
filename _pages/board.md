@@ -14,8 +14,6 @@ header:
 toc: false
 ---
 
-# Meet the Board
-
 <div class="row row--equal">
   <div class="col-4">
     {% include figure
@@ -46,4 +44,3 @@ toc: false
       title="Ashley drives our marketing efforts and manages communications."
     %}
   </div>
-</div>
