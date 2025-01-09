@@ -7,7 +7,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/hero-image.jpg
-  custom_text: "Interested in joining the board? We are looking for motivated individuals in the KC area."
   actions:
     - label: "Apply Now"
       url: "/about/"
