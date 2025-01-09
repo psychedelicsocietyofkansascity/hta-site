@@ -15,10 +15,6 @@ header:
 toc: false
 ---
 
-<div class="header-text">
-  <p>Interested in joining the board? We are looking for motivated individuals in the KC area.</p>
-</div>
-
 <div class="row row--equal" style="margin-top: 2rem;">
   <div class="col-4">
     {% include figure.html
