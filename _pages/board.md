@@ -17,14 +17,26 @@ toc: false
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <div style="flex: 1; text-align: center; margin: 10px;">
     <img src="{{ '/assets/images/dale-bio.jpeg' | relative_url }}" alt="Dale Morgan" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Dale Morgan</strong><br>President<br>Dale leads our organization with vision and dedication.</p>
+    <div style="text-align: center;">
+      <strong>Dale Morgan</strong><br>
+      <em>President</em><br>
+      Dale leads our organization with vision and dedication.
+    </div>
   </div>
   <div style="flex: 1; text-align: center; margin: 10px;">
     <img src="{{ '/assets/images/christine-bio.jpg' | relative_url }}" alt="Dr. Christine Ziemer" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Dr. Christine Ziemer</strong><br>Executive Director<br>Christine oversees strategic initiatives and board operations.</p>
+    <div style="text-align: center;">
+      <strong>Dr. Christine Ziemer</strong><br>
+      <em>Executive Director</em><br>
+      Christine oversees strategic initiatives and board operations.
+    </div>
   </div>
   <div style="flex: 1; text-align: center; margin: 10px;">
     <img src="{{ '/assets/images/ashley-bio.jpg' | relative_url }}" alt="Ashley Bennett" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Ashley Bennett</strong><br>Secretary & Director of Marketing<br>Ashley drives our marketing efforts and manages communications.</p>
+    <div style="text-align: center;">
+      <strong>Ashley Bennett</strong><br>
+      <em>Secretary & Director of Marketing</em><br>
+      Ashley drives our marketing efforts and manages communications.
+    </div>
   </div>
 </div>
