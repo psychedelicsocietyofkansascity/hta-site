@@ -1,4 +1,7 @@
-{% raw %}
+---
+layout: default
+---
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   <div class="page__hero">
     {% if page.header.overlay_color or page.header.overlay_image %}
@@ -15,7 +18,7 @@
       {% if page.header.show_overlay_excerpt != false and page.excerpt %}
         <p class="page__excerpt" itemprop="description">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
-      <!-- Custom Text for Board Page -->
+      <!-- Insert Custom Text -->
       {% if page.header.custom_text %}
         <p class="header-text">{{ page.header.custom_text }}</p>
       {% endif %}
@@ -29,7 +32,19 @@
       {% endif %}
     </div>
   </div>
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
 {% endif %}
 
-{{ content }}
-{% endraw %}
+<div id="main" role="main">
+  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
+    {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+
+    <section class="page__content" itemprop="text">
+      {{ content }}
+    </section>
+  </article>
+</div>
