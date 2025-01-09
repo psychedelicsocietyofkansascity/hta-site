@@ -39,4 +39,7 @@ toc: false
       Ashley drives our marketing efforts and manages communications.
     </div>
   </div>
+  <div style="text-align: center; margin-top: 2rem;">
+  <p>We are looking for motivated individuals in the KC area to join our board. If you're interested, please apply now!</p>
+  <a href="/about/" class="btn btn--primary">Apply Now</a>
 </div>
