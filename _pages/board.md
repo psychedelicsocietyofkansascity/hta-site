@@ -19,7 +19,7 @@ toc: false
 <div class="row row--equal">
   <div class="col-4">
     {% include figure.html
-      image="/assets/images/dale.jpg"
+      image="/assets/images/bio-photo.jpg"
       alt="Dale Morgan"
       caption="<strong>Dale Morgan</strong><br>President"
       class="text-center"
@@ -29,7 +29,7 @@ toc: false
 
   <div class="col-4">
     {% include figure.html
-      image="/assets/images/christine.jpg"
+      image="/assets/images/bio-photo.jpg"
       alt="Dr. Christine Ziemer"
       caption="<strong>Dr. Christine Ziemer</strong><br>Executive Director"
       class="text-center"
@@ -39,7 +39,7 @@ toc: false
 
   <div class="col-4">
     {% include figure.html
-      image="/assets/images/ashley.jpg"
+      image="/assets/images/bio-photo.jpg"
       alt="Ashley Bennett"
       caption="<strong>Ashley Bennett</strong><br>Secretary & Director of Marketing"
       class="text-center"
