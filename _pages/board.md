@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Meet the Board"
 permalink: /board/
 published: true
