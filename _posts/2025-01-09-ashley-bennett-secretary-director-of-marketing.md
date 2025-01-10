@@ -19,4 +19,4 @@ With this change, **Dr. Christine Ziemer** has transitioned to the newly created
 
 This marks an exciting new chapter for the Heartland Transpersonal Alliance as we move forward with expanded capabilities and a commitment to sharing the transformative power of transpersonal experiences.
 
-We are still looking for additional members to join our Board of Directors. [Read more here](/board/) to learn about our board and how to apply.
+We are still looking for additional members to join our Board of Directors. [Read more](/board/) to learn about our board and how to apply.
