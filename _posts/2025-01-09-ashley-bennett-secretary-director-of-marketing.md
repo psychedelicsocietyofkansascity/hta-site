@@ -9,7 +9,7 @@ tags:
   - election
 ---
 <div style="text-align: center;">
-  <img src="/assets/images/ashley-bio.jpg" alt="Ashley Bennett" style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover;">
+  <img src="{{ '/assets/images/ashley-bio.jpg' | relative_url }}" alt="Ashley Bennett" style="border-radius: 50%; width: 300px; height: 300px; object-fit: cover;">
   <p style="text-align: center; font-style: italic;">Ashley Bennett, newly elected Secretary and Director of Marketing.</p>
 </div>
 
