@@ -2,6 +2,7 @@
 layout: splash
 title: "Welcome to The HTA"
 permalink: /
+excerpt: "The Heartland Transpersonal Alliance is a non-profit organization committed to fostering community, education, harm reduction, and integration around the safe, responsible exploration of consciousness."
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -10,7 +11,6 @@ header:
     - label: "Learn More"
       url: "/initiatives/"
       class: "btn btn--primary"
-excerpt: "The Heartland Transpersonal Alliance is a non-profit organization committed to fostering community, education, harm reduction, and integration around the safe, responsible exploration of consciousness."
 ---
 We believe in creating supportive, evidence-based pathways for personal growth and collective well-being. By bringing together professionals, educators, and curious individuals, we aim to expand understanding, reduce stigma, and promote transformative experiences that honor both individual and community needs.
 
