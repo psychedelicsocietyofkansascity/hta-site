@@ -12,16 +12,16 @@ excerpt: "Explore local initiatives and resources related to psychedelic integra
 ---
 ### The KC Psychedelic Integration Circle
 A confidential space for integrating from psychedelic experiences in the Kansas City area.  
-[Visit Website](https://kc-psychedelic.com){: .btn .btn--success .btn--large}
+[Visit Website](https://kc-psychedelic.com){: .btn .btn--transparent .btn--large}
 
 ---
 
 ### The Psychedelic Society of Kansas City
 A social meetup club that discusses the impact of psychedelics on art, culture, and medicine in the Greater Kansas City area.  
-[Visit Website](https://psychedelickc.org){: .btn .btn--success .btn--large}
+[Visit Website](https://psychedelickc.org){: .btn .btn--transparent .btn--large}
 
 ---
 
 ### Safe Journey
 An evidence-based, live event medical-directed compassionate care and psychedelic crisis de-escalation center for live events.  
-<span class="btn btn--disabled btn--large">Coming Soon</span>
+<span class="btn btn--transparent btn--large">Coming Soon</span>
