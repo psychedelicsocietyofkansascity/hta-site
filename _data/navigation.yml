@@ -1,9 +1,9 @@
 main:
   - title: "News"
     url: /news/
+  - title: "Who We Are"
+    url: /board/    
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
