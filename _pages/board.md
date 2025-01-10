@@ -29,7 +29,7 @@ toc: false
     <div style="text-align: center;">
       <strong>Dr. Christine Ziemer</strong><br>
       <em>Executive Director</em><br>
-      Christine is a Professor of Psychology at Missouri Western University and has provided harm reduction-aligned peer counseling through organizations such as The Zendo Project. She oversees strategic initiatives and board operations with Dale.
+      Christine is a Professor of Psychology at Missouri Western State University and has provided harm reduction-aligned peer counseling through organizations such as The Zendo Project and The Fireside Project. She co-founded the Psychedelic Educators Network and the Kansas City Psychedelic Integration Circle and works with Midwest Psychedelic. She oversees strategic initiatives and board operations with Dale.
     </div>
   </div>
   <div style="flex: 1; text-align: center; margin: 10px;">
