@@ -3,6 +3,8 @@ main:
     url: /news/
   - title: "Who We Are"
     url: /board/    
+  - title: "Initiatives"
+    url: /initiatives/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
