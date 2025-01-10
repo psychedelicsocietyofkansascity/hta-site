@@ -11,9 +11,9 @@ header:
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-### The KC Psychedelic Integration Circle
+### The Kansas City Psychedelic Integration Circle
 {: .text-center}
-The Kansas City Psychedelic Integration Circle is a confidential community centered around sharing and processing experiences that are outside the ordinary within a supportive and non-judgmental community of peers.  
+A confidential community centered around sharing and processing experiences that are outside the ordinary within a supportive and non-judgmental community of peers.  
 {: .text-center}
 [Visit Website](https://kc-psychedelic.com){: .btn .btn--info .btn--large}
 {: .text-center}
