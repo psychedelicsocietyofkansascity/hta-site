@@ -2,9 +2,11 @@
 title: "Board Update: Ashley Bennett Elected as Secretary and Director of Marketing"
 date: 2025-01-05T10:00:00-06:00
 categories:
-  - board
+  - news
 tags:
-  - announcements
+  - updates
+  - board
+  - election
 ---
 
 We are pleased to announce that **Ashley Bennett** has been elected as the **Secretary and Director of Marketing** for the Heartland Transpersonal Alliance. Ashley brings a wealth of experience in marketing, graphic design, and digital outreach. We are confident her contributions will help our team engage and grow effectively, particularly with our primary initiative, the **Psychedelic Society of Kansas City**.
