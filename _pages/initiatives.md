@@ -15,7 +15,7 @@ header:
 {: .text-center}
 A confidential community centered around sharing and processing experiences that are outside the ordinary within a supportive and non-judgmental community of peers.  
 {: .text-center}
-[Visit Website](https://kc-psychedelic.com){: .btn .btn--info .btn--large}
+[Visit KCPIC](https://kc-psychedelic.com){: .btn .btn--info .btn--large}
 {: .text-center}
 ---
 
@@ -23,7 +23,7 @@ A confidential community centered around sharing and processing experiences that
 {: .text-center}
 A community hub with in-person events that foster discussions of the profound impact of psychedelics on art, culture, and medicine within the Greater Kansas City area.
 {: .text-center}
-[Visit Website](https://psychedelickc.org){: .btn .btn--info .btn--large}
+[Visit PSKC](https://psychedelickc.org){: .btn .btn--info .btn--large}
 {: .text-center}
 
 ---
