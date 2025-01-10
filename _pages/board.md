@@ -21,7 +21,7 @@ toc: false
     <div style="text-align: center;">
       <strong>Dale Morgan</strong><br>
       <em>President & Treasurer</em><br>
-      Dale is a licensed EMT, providing harm reduction-aligned medical care and peer counseling at live events since 2018. He has worked with numerous medical teams and harm reduction organizations, such as RGX Medical, The Zendo Project, NEST, Jamcare Medical, Lighthouse Medical, and, most recently, RaveSafe Kansas City. He works closely with Dr. Christine Ziemer in managing the strategic vision and initiatives of the organization.
+      Dale is a licensed EMT, providing harm reduction-aligned medical care and peer counseling at live events since 2018. He has worked with numerous medical teams and harm reduction organizations, such as RGX Medical, The Zendo Project, Lighthouse Medical, and RaveSafe Kansas City. He works closely with Dr. Christine Ziemer in managing the strategic vision and initiatives of the organization.
     </div>
   </div>
   <div style="flex: 1; text-align: center; margin: 10px;">
