@@ -16,7 +16,7 @@ header:
 A confidential space for integrating psychedelic experiences in the Kansas City area.  
 {: .text-center}
 [Visit Website](https://kc-psychedelic.com){: .btn .btn--info .btn--large}
-
+{: .text-center}
 ---
 
 ### The Psychedelic Society of Kansas City
