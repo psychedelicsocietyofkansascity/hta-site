@@ -13,7 +13,7 @@ header:
 
 ### The KC Psychedelic Integration Circle
 {: .text-center}
-A confidential space for integrating psychedelic experiences in the Kansas City area.  
+The Kansas City Psychedelic Integration Circle is a confidential community centered around sharing and processing experiences that are outside the ordinary within a supportive and non-judgmental community of peers.  
 {: .text-center}
 [Visit Website](https://kc-psychedelic.com){: .btn .btn--info .btn--large}
 {: .text-center}
@@ -21,9 +21,10 @@ A confidential space for integrating psychedelic experiences in the Kansas City 
 
 ### The Psychedelic Society of Kansas City
 {: .text-center}
-A social meetup club that discusses the impact of psychedelics on art, culture, and medicine in the Greater Kansas City area.  
+A community hub with in-person events that foster discussions of the profound impact of psychedelics on art, culture, and medicine within the Greater Kansas City area.
 {: .text-center}
 [Visit Website](https://psychedelickc.org){: .btn .btn--info .btn--large}
+{: .text-center}
 
 ---
 ### Safe Journey
@@ -31,3 +32,4 @@ A social meetup club that discusses the impact of psychedelics on art, culture, 
 An evidence-based compassionate care and psychedelic crisis de-escalation center that coordinates with first aid medical teams at live events in Kansas and Missouri.
 {: .text-center}
 <span class="btn btn--disabled btn--large">Coming Soon</span>
+{: .text-center}
