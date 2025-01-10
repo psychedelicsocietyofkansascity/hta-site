@@ -3,14 +3,14 @@ layout: splash
 title: "Meet the Board"
 permalink: /board/
 published: true
-excerpt: "We are looking for motivated individuals in the KC area to join our board. If you're interested, please apply now!"
+excerpt: "We are seeking motivated professionals in the Kansas City area to join our Board of Directors. We especially welcome candidates with expertise in community activism, medicine, psychotherapy, social work, or experience as a Treasurer."
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/hero-image.jpg
   actions:
     - label: "Apply Now"
-      url: "https://forms.google.com"
+      url: "https://forms.gle/YqPm1jWPjyAYattt6"
       class: "btn btn--primary"
 toc: false
 ---
