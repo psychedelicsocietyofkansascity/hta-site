@@ -20,8 +20,8 @@ toc: false
     <img src="{{ '/assets/images/dale-bio-2.jpeg' | relative_url }}" alt="Dale Morgan" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
     <div style="text-align: center;">
       <strong>Dale Morgan</strong><br>
-      <em>President</em><br>
-      Dale leads our organization with vision and dedication.
+      <em>President & Treasurer</em><br>
+      Dale is a licensed EMT, providing harm reduction-aligned medical care and peer counseling at live events since 2018. He has worked with numerous medical teams and harm reduction organizations, such as RGX Medical, The Zendo Project, NEST, Jamcare Medical, Lighthouse Medical, and, most recently, RaveSafe Kansas City. He works closely with Dr. Christine Ziemer in managing the strategic vision and initiatives of the organization.
     </div>
   </div>
   <div style="flex: 1; text-align: center; margin: 10px;">
@@ -29,7 +29,7 @@ toc: false
     <div style="text-align: center;">
       <strong>Dr. Christine Ziemer</strong><br>
       <em>Executive Director</em><br>
-      Christine oversees strategic initiatives and board operations.
+      Christine is a Professor of Psychology at Missouri Western University and has provided harm reduction-aligned peer counseling through organizations such as The Zendo Project. She oversees strategic initiatives and board operations with Dale.
     </div>
   </div>
   <div style="flex: 1; text-align: center; margin: 10px;">
@@ -37,7 +37,7 @@ toc: false
     <div style="text-align: center;">
       <strong>Ashley Bennett</strong><br>
       <em>Secretary & Director of Marketing</em><br>
-      Ashley drives our marketing efforts and manages communications.
+      Ashley drives our marketing efforts and social media campaigns externally while managing communication, itineraries, and notes for all official HTA meetings. She is an advocate of harm reduction and the transformative potential of consciousness exploration.
     </div>
   </div>
 </div>
