@@ -3,10 +3,15 @@ layout: splash
 title: "Meet the Board"
 permalink: /board/
 published: true
+excerpt: "We are looking for motivated individuals in the KC area to join our board. If you're interested, please apply now!"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/hero-image.jpg
+  actions:
+    - label: "Apply Now"
+      url: "https://forms.google.com"
+      class: "btn btn--primary"
 toc: false
 ---
 
@@ -35,9 +40,4 @@ toc: false
       Ashley drives our marketing efforts and manages communications.
     </div>
   </div>
-  <div style="text-align: center; margin-top: 2rem;">
-  <p>We are looking for motivated individuals in the KC area to join our board. If you're interested, please apply now!</p>
-  <a href="/about/" class="btn" style="background-color: rgba(50, 50, 50, 0.8); color: white; border: none; padding: 10px 20px; border-radius: 5px;">
-    Apply Now
-  </a>
 </div>
