@@ -17,7 +17,7 @@ toc: false
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="{{ '/assets/images/dale-bio-2.jpeg' | relative_url }}" alt="Dale Morgan" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
+    <img src="{{ '/assets/images/dale-bio-2.jpg' | relative_url }}" alt="Dale Morgan" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
     <div style="text-align: center;">
       <strong>Dale Morgan</strong><br>
       <em>President & Treasurer</em><br>
