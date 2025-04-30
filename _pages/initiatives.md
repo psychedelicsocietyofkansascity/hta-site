@@ -27,9 +27,9 @@ A community hub with in-person events that foster discussions of the profound im
 {: .text-center}
 
 ---
-### Safe Journey
+### Safe Journey Sanctum
 {: .text-center}
-An evidence-based compassionate care and psychedelic crisis de-escalation center that coordinates with first aid medical teams at live events in Kansas and Missouri.
+Compassionate, evidence-based peer support and overdose prevention at festivals and live events. Using a multidisciplinary foundation, we create safe spaces for guests in crisis and train staff in harm reduction and Narcan use.
 {: .text-center}
 <span class="btn btn--disabled btn--large">Coming Soon</span>
 {: .text-center}
