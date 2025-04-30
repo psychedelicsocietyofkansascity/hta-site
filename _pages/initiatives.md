@@ -13,8 +13,10 @@ header:
 
 ### The Kansas City Psychedelic Integration Circle
 {: .text-center}
-A confidential community centered around sharing and processing experiences that are outside the ordinary within a supportive and non-judgmental community of peers.  
+A confidential community centered around sharing and processing experiences that are outside the ordinary within a supportive and non-judgmental community of peers.
+{: .text-center}
 [Visit KCPIC](https://kc-psychedelic.com){: .btn .btn--info .btn--large}
+{: .text-center}
 
 ---
 
