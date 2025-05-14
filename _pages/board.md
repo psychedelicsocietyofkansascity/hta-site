@@ -33,7 +33,7 @@ toc: false
     </div>
   </div>
   <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="{{ '/assets/images/shannon-bio.jpg' | relative_url }}" alt="Ashley Bennett" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
+    <img src="{{ '/assets/images/shannon-bio.jpg' | relative_url }}" alt="Shannon Conover" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
     <div style="text-align: center;">
       <strong>Shannon Conover</strong><br>
       <em>SJS Committee Member</em><br>
@@ -42,7 +42,7 @@ toc: false
   </div>
 </div>
     <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="{{ '/assets/images/elizabeth-bio.jpg' | relative_url }}" alt="Ashley Bennett" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
+    <img src="{{ '/assets/images/elizabeth-bio.jpg' | relative_url }}" alt="Elizabeth Wells" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
     <div style="text-align: center;">
       <strong>Elizabeth Wells</strong><br>
       <em>Secretary</em><br>
@@ -60,7 +60,7 @@ toc: false
   </div>
 </div>
   <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="{{ '/assets/images/nate-bio.jpg' | relative_url }}" alt="Ashley Bennett" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
+    <img src="{{ '/assets/images/nate-bio.jpg' | relative_url }}" alt="Nate Beam" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
     <div style="text-align: center;">
       <strong>Nate Beam</strong><br>
       <em>Treasurer</em><br>
