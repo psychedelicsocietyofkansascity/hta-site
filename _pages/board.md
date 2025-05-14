@@ -33,11 +33,38 @@ toc: false
     </div>
   </div>
   <div style="flex: 1; text-align: center; margin: 10px;">
+    <img src="{{ '/assets/images/shannon-bio.jpg' | relative_url }}" alt="Ashley Bennett" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
+    <div style="text-align: center;">
+      <strong>Shannon Conover</strong><br>
+      <em>SJS Committee Member</em><br>
+      Shannon is a Licensed Clinical Social Worker in private practice, specializing in integration therapy for clients undergoing ketamine treatment. Passionate about psychedelics' transformative potential, she advocates for creating safe, trauma-informed environments to support individuals exploring altered states of consciousness. Shannon will serve on the Safe Journey Sanctum committee, working alongside Elizabeth to provide a comprehensive model of care.
+    </div>
+  </div>
+</div>
+    <div style="flex: 1; text-align: center; margin: 10px;">
+    <img src="{{ '/assets/images/elizabeth-bio.jpg' | relative_url }}" alt="Ashley Bennett" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
+    <div style="text-align: center;">
+      <strong>Elizabeth Wells</strong><br>
+      <em>Secretary</em><br>
+      Elizabeth holds a Master’s in Nursing and has over a decade of clinical bedside experience. Currently pursuing certification as a Psychiatric Mental Health Nurse Practitioner (PMHNP), she is passionate about advancing psychedelic-assisted psychotherapy, informed by her involvement in clinical research. Elizabeth serves on the Safe Journey Sanctum committee, where she actively advocates for harm reduction and trauma-informed care.
+    </div>
+  </div>
+</div>
+  <div style="flex: 1; text-align: center; margin: 10px;">
     <img src="{{ '/assets/images/ashley-bio.jpg' | relative_url }}" alt="Ashley Bennett" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
     <div style="text-align: center;">
       <strong>Ashley Bennett</strong><br>
-      <em>Secretary & Director of Marketing</em><br>
-      Ashley drives our marketing efforts and social media campaigns externally while managing communication, itineraries, and notes for all official HTA meetings. She is an advocate of harm reduction and the transformative potential of consciousness exploration.
+      <em>Director of Marketing</em><br>
+      Ashley drives our marketing efforts, social media campaigns, and our Discord community. She is an advocate of harm reduction and the transformative potential of consciousness exploration.
+    </div>
+  </div>
+</div>
+  <div style="flex: 1; text-align: center; margin: 10px;">
+    <img src="{{ '/assets/images/nate-bio.jpg' | relative_url }}" alt="Ashley Bennett" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
+    <div style="text-align: center;">
+      <strong>Nate Beam</strong><br>
+      <em>Treasurer</em><br>
+      Nate is the Treasurer for HTA and serves on the Events Committee. With experience in budget coaching and event production, Nate brings a passion for community building and organizational planning to support the psychedelic movement in Kansas City.
     </div>
   </div>
 </div>
