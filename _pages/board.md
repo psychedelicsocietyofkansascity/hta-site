@@ -45,31 +45,6 @@ toc: false
     </div>
   </div>
 
-  <!-- Ashley ---------------------------------------------------->
-  <div style="flex: 1 1 300px; max-width: 300px; text-align: center; margin: 10px;">
-    <img src="{{ '/assets/images/ashley-bio.jpg' | relative_url }}" alt="Ashley Bennett"
-         style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
-    <div>
-      <strong>Ashley&nbsp;Bennett</strong><br>
-      <em>Director of Marketing</em><br>
-      Ashley drives our marketing efforts, social-media campaigns, and Discord community. She is an
-      advocate of harm reduction and the transformative potential of consciousness exploration.
-    </div>
-  </div>
-
-  <!-- Nate ------------------------------------------------------>
-  <div style="flex: 1 1 300px; max-width: 300px; text-align: center; margin: 10px;">
-    <img src="{{ '/assets/images/nate-bio.jpg' | relative_url }}" alt="Nate Beam"
-         style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
-    <div>
-      <strong>Nate&nbsp;Beam</strong><br>
-      <em>Treasurer</em><br>
-      Nate serves as Treasurer for HTA and sits on the Events Committee. With experience in
-      soul-centered budget coaching and event production, he brings a passion for community building
-      and organizational planning to support the psychedelic movement in Kansas City.
-    </div>
-  </div>
-
   <!-- Shannon --------------------------------------------------->
   <div style="flex: 1 1 300px; max-width: 300px; text-align: center; margin: 10px;">
     <img src="{{ '/assets/images/shannon-bio.jpg' | relative_url }}" alt="Shannon Conover"
@@ -97,6 +72,30 @@ toc: false
       she is passionate about advancing psychedelic-assisted psychotherapy, informed by her involvement
       in clinical research. Elizabeth serves on the Safe Journey Sanctum committee, where she actively
       advocates for harm reduction and trauma-informed care.
+    </div>
+  </div>
+    <!-- Ashley ---------------------------------------------------->
+  <div style="flex: 1 1 300px; max-width: 300px; text-align: center; margin: 10px;">
+    <img src="{{ '/assets/images/ashley-bio.jpg' | relative_url }}" alt="Ashley Bennett"
+         style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
+    <div>
+      <strong>Ashley&nbsp;Bennett</strong><br>
+      <em>Director of Marketing</em><br>
+      Ashley drives our marketing efforts, social-media campaigns, and Discord community. She is an
+      advocate of harm reduction and the transformative potential of consciousness exploration.
+    </div>
+  </div>
+
+  <!-- Nate ------------------------------------------------------>
+  <div style="flex: 1 1 300px; max-width: 300px; text-align: center; margin: 10px;">
+    <img src="{{ '/assets/images/nate-bio.jpg' | relative_url }}" alt="Nate Beam"
+         style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
+    <div>
+      <strong>Nate&nbsp;Beam</strong><br>
+      <em>Treasurer</em><br>
+      Nate serves as Treasurer for HTA and sits on the Events Committee. With experience in
+      soul-centered budget coaching and event production, he brings a passion for community building
+      and organizational planning to support the psychedelic movement in Kansas City.
     </div>
   </div>
 </div>
