@@ -18,7 +18,7 @@ toc: false
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <!-- Dale ------------------------------------------------------>
   <div style="flex: 1 1 300px; max-width: 300px; text-align: center; margin: 10px;">
-    <img src="{{ '/assets/images/dale-bio-2.jpeg' | relative_url }}" alt="Dale Morgan"
+    <img src="{{ '/assets/images/dale-bio2.jpg' | relative_url }}" alt="Dale Morgan"
          style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
     <div>
       <strong>Dale Morgan</strong><br>
