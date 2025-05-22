@@ -62,7 +62,7 @@ toc: false
 
   <!-- Elizabeth ------------------------------------------------->
   <div style="flex: 1 1 300px; max-width: 300px; text-align: center; margin: 10px;">
-    <img src="{{ '/assets/images/elizabeth-bio.jpg' | relative_url }}" alt="Elizabeth Wells"
+    <img src="{{ '/assets/images/liz-bio-3.png' | relative_url }}" alt="Elizabeth Wells"
          style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
     <div>
       <strong>Elizabeth&nbsp;Wells</strong><br>
